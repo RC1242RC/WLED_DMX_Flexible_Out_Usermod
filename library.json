@@ -1,5 +1,5 @@
 {
-  "name": "wled-usermod-example",
+  "name": "WLED_DMX_Flexible_Out_Usermod",
   "build": {
     "libArchive": false
   },
